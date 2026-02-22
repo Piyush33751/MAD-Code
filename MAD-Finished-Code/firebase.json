@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"hdb-helper","appId":"1:93477367322:android:ff015ae9615f7d90ceeba3","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"hdb-helper","configurations":{"android":"1:93477367322:android:ff015ae9615f7d90ceeba3","web":"1:93477367322:web:fbb5343a002f1711ceeba3"}}}}}}

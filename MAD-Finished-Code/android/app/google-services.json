@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "93477367322",
+    "project_id": "hdb-helper",
+    "storage_bucket": "hdb-helper.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93477367322:android:ff015ae9615f7d90ceeba3",
+        "android_client_info": {
+          "package_name": "com.example.hello_world"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX2ujnXWjLwT40MRy494F0gDDwtbWbvZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
